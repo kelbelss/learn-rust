@@ -1,2 +1,2 @@
-# rust-book
+# Learning Rust with Rust Book
  
