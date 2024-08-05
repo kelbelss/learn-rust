@@ -2,7 +2,7 @@
 
 Welcome to my Rust learning repository! This is where I document my journey of learning the Rust programming language, sharing the resources, projects, and insights I've gathered along the way. Whether you're a beginner or looking to deepen your understanding of Rust, I hope you'll find this repository useful.
  
-## Resources
+## Main Resources
 
 - [The Rust Programming Language (The Book)](https://doc.rust-lang.org/book/)
 - [Let's Get Rusty - The Rust Lang Book Playlist](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&si=ldobWHRCRxI8ha6o)
@@ -39,4 +39,5 @@ _I decided to follow the [interactive version](https://rust-book.cs.brown.edu/ex
 
 - The Book - [interactive version](https://rust-book.cs.brown.edu/ch03-00-common-programming-concepts.html) or [original](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
 - Let's Get Rusty - [Common Programming Concepts in Rust](https://youtu.be/2V0JaMVjzws?si=NAPRn5s_sazqWOAx) 
-- [Rustlings](https://github.com/rust-lang/rustlings) 
+- Tech with Tim - [Rust Tutorial #4 - Data Types](https://youtu.be/t047Hseyj_k?si=M2P-K-_83AcgTQwW)
+- [Rustlings](https://github.com/rust-lang/rustlings) - I completed 01_variables
