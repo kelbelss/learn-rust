@@ -5,6 +5,19 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 ## Resources
 
 - [The Rust Programming Language (The Book)](https://doc.rust-lang.org/book/)
-- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rustlings](https://github.com/rust-lang/rustlings)
 - [Let's Get Rusty - The Rust Lang Book Playlist](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&si=ldobWHRCRxI8ha6o)
+- - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+
+## Sections (following The Book)
+
+### Getting Started 
+
+- [The Book](https://rust-book.cs.brown.edu/ch01-00-getting-started.html)
+- [Let's Get Rusty - ULTIMATE Rust Lang Tutorial! - Getting Started](https://youtu.be/OX9HJsJUDxA?si=PhZ5Iv6Azi8azQf9)
+- [Rustlings:](https://github.com/rust-lang/rustlings) intro exercises
+
+### Programming a Guessing Game
+
+- [The Book](https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html)
+- [Let's Get Rusty - Programming a Guessing Game in Rust!](https://youtu.be/H0xBSbnQYds?si=WubyeEfIZhSLnEnE)
