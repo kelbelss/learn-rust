@@ -41,3 +41,5 @@ _I decided to follow the [interactive version](https://rust-book.cs.brown.edu/ex
 - Let's Get Rusty - [Common Programming Concepts in Rust](https://youtu.be/2V0JaMVjzws?si=NAPRn5s_sazqWOAx) 
 - Tech with Tim - [Rust Tutorial #4 - Data Types](https://youtu.be/t047Hseyj_k?si=M2P-K-_83AcgTQwW)
 - [Rustlings](https://github.com/rust-lang/rustlings) - I completed 01_variables
+
+*For Data Types I found the Tech with Tim video helpful, along with the Let's Get Rusty video. I reccommend reading The Book too, as the videos do not cover everything.*
