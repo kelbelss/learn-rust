@@ -1,6 +1,6 @@
 # Learn Rust 🦀
 
-Welcome to my Rust learning repository! This is where I document my journey of learning the Rust programming language, sharing the resources, projects, and insights I've gathered along the way. Whether you're a beginner or looking to deepen your understanding of Rust, I hope you'll find this repository useful.
+Welcome to my Rust learning repository! This is where I document my journey of learning the Rust programming language, sharing the resources, projects, and insights I've gathered along the way. Whether you're a beginner or looking to deepen your understanding of Rust, I hope you'll find this repository useful 👩🏼‍💻✨
  
 ## Main Resources
 
