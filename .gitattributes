@@ -1,3 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.rs linguist-language=Rust
 Makefile linguist-vendored
+*.mk linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
+*.json linguist-vendored
+*.toml linguist-vendored
