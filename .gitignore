@@ -1,6 +1,6 @@
 # Cargo
-target/
-Cargo.lock
-!/Cargo.lock
+**/target/
+**/Cargo.lock
 
-.DS_Store
+# macOS
+**/.DS_Store
