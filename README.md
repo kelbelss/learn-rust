@@ -28,6 +28,8 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 - Let's Get Rusty - [ULTIMATE Rust Lang Tutorial! - Getting Started](https://youtu.be/OX9HJsJUDxA?si=PhZ5Iv6Azi8azQf9)
 - [Rustlings](https://github.com/rust-lang/rustlings) - I did the intro exercises at this point.
 
+🦀 *If you plan to commit your progress to a single repository, I recommend adding a `.gitignore` file with `**/target/` and `**/Cargo.lock` to your root directory.*
+
 ### 2. Programming a Guessing Game
 
 - The Book 📖 - [interactive version](https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html) or [original](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
