@@ -42,6 +42,6 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 - The Book 📖 - [interactive version](https://rust-book.cs.brown.edu/ch03-00-common-programming-concepts.html) or [original](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
 - Let's Get Rusty - [Common Programming Concepts in Rust](https://youtu.be/2V0JaMVjzws?si=NAPRn5s_sazqWOAx) 
 - Tech with Tim - [Rust Tutorial #4 - Data Types](https://youtu.be/t047Hseyj_k?si=M2P-K-_83AcgTQwW)
-- [Rustlings](https://github.com/rust-lang/rustlings) - I completed 01_variables
+- [Rustlings](https://github.com/rust-lang/rustlings) - I completed the exercises in 01_variables, 02_functions, 03_if, and a bit of 04_primitive_types. I also completed the first quiz in the quizzes folder.
 
 🦀 *For Data Types I found the Tech with Tim video helpful, along with the Let's Get Rusty video. I reccommend reading The Book too, as the videos do not cover everything.*
