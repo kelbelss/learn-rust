@@ -20,9 +20,9 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 5. [Stack, Heap, and Static Memory](https://youtu.be/NnLdGKoz1ls?si=YrtC5lKBaDmHcKe0)
 6. [Memory Management Strategies](https://youtu.be/GUZ_2gGWuPo?si=Mc1HUagaT8tb4Ufq)
 
-## Sections (following The Book 📖)
+## [Sections](https://github.com/kelbelss/learn-rust/tree/main/rust-book) (following The Book 📖)
 
-### 1. Getting Started
+### 1. [Getting Started](https://github.com/kelbelss/learn-rust/tree/main/rust-book/getting_started)
 
 - The Book 📖 - [interactive version](https://rust-book.cs.brown.edu/ch01-00-getting-started.html) or [original](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
 - Let's Get Rusty - [ULTIMATE Rust Lang Tutorial! - Getting Started](https://youtu.be/OX9HJsJUDxA?si=PhZ5Iv6Azi8azQf9)
@@ -46,3 +46,11 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 - Practice - the Rust Book suggests building a program that can generate the [*n*th Fibonacci number](https://github.com/kelbelss/learn-rust/tree/main/rust-book/common_programming_concepts/fibonacci/src). I began with a [Fibonacci in Rust](https://benjaminbrandt.com/fibonacci-in-rust/) demonstration and then worked with Claude AI to break it down and understand it better. I added a non-recursive function and compared the time complexity of each using Rust's standard library's `std::time::Instant`. 
 
 🦀 *For Data Types I found the Tech with Tim video helpful, along with the Let's Get Rusty video. I reccommend reading The Book too, as the videos do not cover everything.*
+
+### 4. Understanding Ownership
+
+- The Book 📖 - [interactive version](https://rust-book.cs.brown.edu/ch04-00-understanding-ownership.html) or [original](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+- Let's Get Rusty - [Understanding Ownership in Rust](https://youtu.be/VFIOSWy93H0?si=VFcXYn3_BQx0opjt) 
+- [Rustlings](https://github.com/rust-lang/rustlings)
+
+🦀 **
