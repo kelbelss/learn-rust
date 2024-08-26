@@ -43,6 +43,6 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 - Let's Get Rusty - [Common Programming Concepts in Rust](https://youtu.be/2V0JaMVjzws?si=NAPRn5s_sazqWOAx) 
 - Tech with Tim - [Rust Tutorial #4 - Data Types](https://youtu.be/t047Hseyj_k?si=M2P-K-_83AcgTQwW)
 - [Rustlings](https://github.com/rust-lang/rustlings) - I completed the exercises in 01_variables, 02_functions, 03_if, and exercises 1, 2 and 3 in 04_primitive_types. I also completed the first quiz in the quizzes folder.
+- Practice - the Rust Book suggests building a program that can generate the [*n*th Fibonacci number](https://github.com/kelbelss/learn-rust/tree/main/rust-book/common_programming_concepts/fibonacci/src). I began with a [Fibonacci in Rust](https://benjaminbrandt.com/fibonacci-in-rust/) demonstration and then worked with Claude AI to break it down and understand it better. I added a non-recursive function and compared the time complexity of each using Rust's standard library's `std::time::Instant`. 
 
 🦀 *For Data Types I found the Tech with Tim video helpful, along with the Let's Get Rusty video. I reccommend reading The Book too, as the videos do not cover everything.*
-
