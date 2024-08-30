@@ -46,3 +46,12 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 - Practice - the Rust Book suggests building a program that can generate the [*n*th Fibonacci number](https://github.com/kelbelss/learn-rust/tree/main/rust-book/common_programming_concepts/fibonacci/src). I began with a [Fibonacci in Rust](https://benjaminbrandt.com/fibonacci-in-rust/) demonstration and then worked with Claude AI to break it down and understand it better. I added a non-recursive function and a memoisation function using `std::collections::HashMap`, and then compared the time complexity of each using Rust's standard library's `std::time::Instant`. 
 
 🦀 *For Data Types I found the Tech with Tim video helpful, along with the Let's Get Rusty video. I reccommend reading The Book too, as the videos do not cover everything.*
+
+### 4. Understanding Ownership
+
+- The Book 📖 - [interactive version](https://rust-book.cs.brown.edu/ch04-00-understanding-ownership.html) or [original](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+- Let's Get Rusty - [Understanding Ownership in Rust](https://youtu.be/VFIOSWy93H0?si=VFcXYn3_BQx0opjt) 
+- Tech with Tim - [Rust Tutorial #9 - Memory Management, Heap & Stack](https://youtu.be/-6cnnNlAvNk?si=qFCFcRIuuhJm0A0Z)
+- [Rustlings](https://github.com/rust-lang/rustlings)
+
+🦀 *I began this section with the Tech with Tim Tuturial 9 video to get a better understanding of memory management.*
