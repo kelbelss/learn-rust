@@ -20,6 +20,10 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 5. [Stack, Heap, and Static Memory](https://youtu.be/NnLdGKoz1ls?si=YrtC5lKBaDmHcKe0)
 6. [Memory Management Strategies](https://youtu.be/GUZ_2gGWuPo?si=Mc1HUagaT8tb4Ufq)
 
+## Useful Videos I Keep Going Back To
+
+1. [Rust for the impatient](https://youtu.be/br3GIIQeefY?si=CIMy5HqAmSpJ3Kgv)
+
 ## Sections (following The Book 📖)
 
 ### 1. Getting Started
@@ -52,6 +56,6 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 - The Book 📖 - [interactive version](https://rust-book.cs.brown.edu/ch04-00-understanding-ownership.html) or [original](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 - Let's Get Rusty - [Understanding Ownership in Rust](https://youtu.be/VFIOSWy93H0?si=VFcXYn3_BQx0opjt) 
 - Tech with Tim - [Rust Tutorial #9 - Memory Management, Heap & Stack](https://youtu.be/-6cnnNlAvNk?si=qFCFcRIuuhJm0A0Z)
-- [Rustlings](https://github.com/rust-lang/rustlings)
+- [Rustlings](https://github.com/rust-lang/rustlings) Completed 04_primitive_types 4, 5 and 6.
 
 🦀 *I began this section with the Tech with Tim Tuturial 9 video to get a better understanding of memory management.*
