@@ -59,7 +59,7 @@ Welcome to my Rust learning repository! This is where I document my journey of l
 - Tech with Tim - [Rust Tutorial #9 - Memory Management, Heap & Stack](https://youtu.be/-6cnnNlAvNk?si=qFCFcRIuuhJm0A0Z)
 - [Ownership [25 of 35] | Rust for Beginners](https://youtu.be/2H-O43Hl94c?si=QYqk_pwGR0iCtIFg)
 - [Borrowing [27 of 35] | Rust for Beginners](https://youtu.be/6eCV-Q-kjX4?si=sq5zOJsAUDM2YXs-)
-- [Rustlings](https://github.com/rust-lang/rustlings) Completed 04_primitive_types 4, 5 and 6. In order to continue with Rustlings I watched [Common Collections in Rust](https://youtu.be/Zs-pS-egQSs?si=M0kgSO-GNg4ncuJY) and [Master Rust Collections: Vectors, Enums, and Iteration - Full Crash Rust Tutorial for Beginners](https://youtu.be/f4a8rWkSl8U?si=1HIG4tKFurR2rGqS).
+- [Rustlings](https://github.com/rust-lang/rustlings) Completed 04_primitive_types 4, 5 and 6. In order to continue with Rustlings and complete 05_vecs, I watched [Common Collections in Rust](https://youtu.be/Zs-pS-egQSs?si=M0kgSO-GNg4ncuJY) and [Master Rust Collections: Vectors, Enums, and Iteration - Full Crash Rust Tutorial for Beginners](https://youtu.be/f4a8rWkSl8U?si=1HIG4tKFurR2rGqS).
 - I decided to build a small project following a tutorial to get a better idea of what a Rust project looks like. I followed Akhil Sharma's [I Built A Password Vault with Rust!](https://youtu.be/YYVoOoy8d2s?si=t_pP0N9K2y1NkvlW). 
 
 🦀 *I began this section with the Tech with Tim Tuturial 9 video to get a better understanding of memory management.*
